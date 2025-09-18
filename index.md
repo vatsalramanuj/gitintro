@@ -35,4 +35,4 @@ A collection of fun mini-games.
 
 ## 📫 Contact
 - Email: *vatsalnr@gmail.com*  
-- LinkedIn: *[Vatsal Ramanuj]{https://www.linkedin.com/in/vatsalramanuj/}*  
+- LinkedIn: *[Vatsal Ramanuj](https://www.linkedin.com/in/vatsalramanuj/)*  
