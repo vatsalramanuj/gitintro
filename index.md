@@ -13,7 +13,7 @@ I’m an undergraduate student in Electrical Engineering with interests in **RF 
 
 ### [Digit Recognizer](https://github.com/vatsalramanuj/DigitRecognizer)
 A web-based digit recognition app built with **JavaScript, HTML**, and an **ML backend (NumPy only)**.  
-👉 *Deployed for interactive handwritten digit prediction.*
+👉 *[Deployed for interactive handwritten digit prediction.](https://digitrecognizer-o7lh.onrender.com/)*
 
 ---
 
