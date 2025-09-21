@@ -3,7 +3,6 @@ layout: default
 title: Vatsal Ramanuj
 ---
 <style>
-/* Try several selectors used by Cayman / GitHub Pages themes */
 .page-header a[href*="github.com"],
 .page-header .btn-github,
 .page-header .github,
@@ -17,7 +16,7 @@ title: Vatsal Ramanuj
 
 <!-- Custom Header -->
 <div class="custom-header">
-  <img src="/assets/Vatsal_profile_picture.jpeg" alt="Vatsal Ramanuj" class="profile-pic">
+  <img src="assets\Vatsal_profile_picture.jpeg" alt="Vatsal Ramanuj" class="profile-pic">
 
   <div class="intro">
     <h1>👋 Hi, I’m Vatsal</h1>
