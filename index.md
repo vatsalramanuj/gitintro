@@ -17,7 +17,7 @@ title: Vatsal Ramanuj
 
 <!-- Custom Header -->
 <div class="custom-header">
-  <img src="/assets/Vatsal_profile_picture.jpg" alt="Vatsal Ramanuj" class="profile-pic">
+  <img src="/assets/Vatsal_profile_picture.jpeg" alt="Vatsal Ramanuj" class="profile-pic">
 
   <div class="intro">
     <h1>👋 Hi, I’m Vatsal</h1>
