@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: default
-title: Vatsal Ramanuj
----
+ title: Vatsal Ramanuj
+--- -->
 
 <!-- # 👋 Hi, I’m Vatsal
 
