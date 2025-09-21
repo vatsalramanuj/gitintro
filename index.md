@@ -1,7 +1,7 @@
-<!-- ---
+ ---
 layout: default
- title: Vatsal Ramanuj
---- -->
+title: Vatsal Ramanuj
+--- 
 
 <!-- # 👋 Hi, I’m Vatsal
 
@@ -10,7 +10,7 @@ I’m an undergraduate student in Electrical Engineering with interests in **RF 
 --- -->
 <!-- Custom Header -->
 <div class="custom-header">
-  <img src="/assets/Vatsal_profile_picture.jpg" alt="Vatsal Ramanuj" class="profile-pic">
+  <img src="/assets/Vatsal_profile_picture.jpeg" alt="Vatsal Ramanuj" class="profile-pic">
 
   <div class="intro">
     <h1>👋 Hi, I’m Vatsal</h1>
