@@ -9,7 +9,7 @@ title: Vatsal Ramanuj
   <div style="flex: 0 0 250px; text-align: center;">
 
   <!-- Profile Photo -->
-  <img src="/assets/images/profile.jpg" alt="Vatsal Ramanuj" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover; margin-bottom: 1rem;">
+  <img src="/assets/Vatsal_profile_picture.jpeg" alt="Vatsal Ramanuj" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover; margin-bottom: 1rem;">
 
   <!-- Intro -->
   <h1>👋 Hi, I’m Vatsal</h1>
@@ -21,9 +21,9 @@ title: Vatsal Ramanuj
   <!-- Contact Info -->
   <h3>📬 Contact</h3>
   <p>
-  📧 <a href="mailto:vatsalnr@gmail.com">vatsalnr@gmail.com</a><br>
-  💼 <a href="https://www.linkedin.com/in/vatsalramanuj/">LinkedIn</a><br>
-  📄 <a href="/assets/resume.pdf">Resume</a>
+  <a href="mailto:vatsalnr@gmail.com">vatsalnr@gmail.com</a><br>
+  <a href="https://www.linkedin.com/in/vatsalramanuj/">LinkedIn</a><br>
+<!--   📄 <a href="/assets/resume.pdf">Resume</a> -->
   </p>
 
   </div>
