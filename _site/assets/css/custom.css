@@ -53,12 +53,6 @@
   flex:1;
 }
 
-/* @media screen and (max-width: 1000px) {
-  .main-content {
-    margin-left: 280px; /* fixed smaller margin */
-    max-width: calc(100% - 300px); /* ensure it shrinks gracefully */
-  }
-} */
 
 
 /* For smaller screens */
