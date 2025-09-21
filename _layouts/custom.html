@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  </head>
+  <body>
+
+    <!-- Sidebar (fixed on left) -->
+    <div class="sidebar">
+      <img src="{{ '/assets/Vatsal_profile_picture.jpeg' | relative_url }}" alt="Vatsal Ramanuj" class="profile-pic" />
+      <h1>Vatsal Ramanuj</h1>
+      <a href="mailto:vatsalnr@gmail.com">Email</a>
+      <a href="https://www.linkedin.com/in/vatsalramanuj/">LinkedIn</a>
+      <a href="{{ '/assets/resume.pdf' | relative_url }}">Resume</a>
+    </div>
+
+    <!-- Main content -->
+    <div class="main-content">
+      {{ content }}
+    </div>
+
+  </body>
+</html>

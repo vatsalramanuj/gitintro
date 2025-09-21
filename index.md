@@ -1,42 +1,26 @@
 ---
-layout: default
+layout: custom
 title: Vatsal Ramanuj
 ---
-<style>
-.page-header a[href*="github.com"],
-.page-header .btn-github,
-.page-header .github,
-.btn-github,
-.repo-link,
-.github-link,
-.page-header .btn {
-  display: none !important;
-}
-</style>
 
-<!-- Custom Header -->
-<div class="custom-header">
-  <img src="assets\Vatsal_profile_picture.jpeg" alt="Vatsal Ramanuj" class="profile-pic">
-
-  <div class="intro">
-    <h1>👋 Hi, I’m Vatsal</h1>
-    <p>
-      I’m an undergraduate student in Electrical Engineering with interests in
-      <b>RF communication, antenna design, and applied programming</b>.  
-      I am especially interested in the intersection regions of Electronics, Physics, and Computing.
-    </p>
-    <p>
-      <a href="mailto:vatsalnr@gmail.com">vatsalnr@gmail.com</a><br>
-      <a href="https://www.linkedin.com/in/vatsalramanuj/">LinkedIn</a><br>
-      <!-- <a href="/assets/resume.pdf">Resume</a> -->
-    </p>
-  </div>
+<!-- Sidebar -->
+<div class="sidebar">
+  <img src="{{ '/assets/Vatsal_profile_picture.jpeg' | relative_url }}" alt="Vatsal Ramanuj" class="profile-pic" />
+  <h1>Vatsal Ramanuj</h1>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vatsalnr@gmail.com" target="_blank">Email</a>
+  <a href="https://www.linkedin.com/in/vatsalramanuj/">LinkedIn</a>
+  <a href="/assets/resume.pdf">Resume</a>
 </div>
 
-**Contact**
+<!-- Main content -->
+<!-- <div class="main-content"> -->
 
-- Email: [vatsalnr@gmail.com](mailto:vatsalnr@gmail.com)  
-- LinkedIn: [Vatsal Ramanuj](https://www.linkedin.com/in/vatsalramanuj/) 
+## 👋 Hi, I’m Vatsal
+
+I’m an undergraduate student in Electrical Engineering with interests in **RF communication, antenna design, and applied programming**.  
+I am especially interested in the intersection regions of Electronics, Physics, and Computing.
+
+---
 
 ## Projects
 Some of my GitHub interesting projects are listed here:
@@ -61,4 +45,3 @@ The best projects are the ones that are fun and what is more fun than building a
 
 You can find more projects and my professional experience in my resume.
 
- 
