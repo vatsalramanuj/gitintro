@@ -1,16 +1,23 @@
 ---
 layout: default
 title: Vatsal Ramanuj
---- 
+---
+<style>
+/* Try several selectors used by Cayman / GitHub Pages themes */
+.page-header a[href*="github.com"],
+.page-header .btn-github,
+.page-header .github,
+.btn-github,
+.repo-link,
+.github-link,
+.page-header .btn {
+  display: none !important;
+}
+</style>
 
-<!-- # 👋 Hi, I’m Vatsal
-
-I’m an undergraduate student in Electrical Engineering with interests in **RF communication, antenna design, and applied programming**. I am especially interested in the intersection regions of Electronics, Physics, and Computing.  
-
---- -->
 <!-- Custom Header -->
 <div class="custom-header">
-  <img src="/assets/Vatsal_profile_picture.jpeg" alt="Vatsal Ramanuj" class="profile-pic">
+  <img src="/assets/Vatsal_profile_picture.jpg" alt="Vatsal Ramanuj" class="profile-pic">
 
   <div class="intro">
     <h1>👋 Hi, I’m Vatsal</h1>
@@ -27,6 +34,10 @@ I’m an undergraduate student in Electrical Engineering with interests in **RF 
   </div>
 </div>
 
+**Contact**
+
+- Email: [vatsalnr@gmail.com](mailto:vatsalnr@gmail.com)  
+- LinkedIn: [Vatsal Ramanuj](https://www.linkedin.com/in/vatsalramanuj/) 
 
 ## Projects
 Some of my GitHub interesting projects are listed here:
@@ -51,7 +62,4 @@ The best projects are the ones that are fun and what is more fun than building a
 
 You can find more projects and my professional experience in my resume.
 
-## Contact
-
-- 📧 Email: [vatsalnr@gmail.com](mailto:vatsalnr@gmail.com)  
-- 💼 LinkedIn: [Vatsal Ramanuj](https://www.linkedin.com/in/vatsalramanuj/)  
+ 
