@@ -36,9 +36,13 @@
 }
 
 .sidebar a {
-  color: white;
+  color: rgba(2, 2, 2, 0.591);
   text-decoration: none;
   margin: 0.3rem 0;
+}
+
+.sidebar h4 {
+  text-align: center;
 }
 
 .main-content {

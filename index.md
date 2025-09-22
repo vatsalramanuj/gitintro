@@ -7,6 +7,7 @@ title: Vatsal Ramanuj
 <div class="sidebar">
   <img src="{{ '/assets/Vatsal_profile_picture.jpeg' | relative_url }}" alt="Vatsal Ramanuj" class="profile-pic" />
   <h1>Vatsal Ramanuj</h1>
+  <h4>EE major at Indian Institute of Technology, Madras.</h4>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vatsalnr@gmail.com" target="_blank">Email</a>
   <a href="https://www.linkedin.com/in/vatsalramanuj/">LinkedIn</a>
   <a href="/assets/resume.pdf">Resume</a>
@@ -22,7 +23,7 @@ I am especially interested in the intersection regions of electronics, physics, 
 ---
 
 ## Projects
-Some of my GitHub interesting projects are listed here:
+Some of my interesting GitHub projects are listed here:
 
 ### Digit Recognizer
 A web-based digit recognition app built with a **Flask** frontend, and an **ML backend (using NumPy)**. It includes implementation for forward propagation, gradient descent followed by backpropagation and is trained on the MNIST dataset. Hosted on Render, it is 
