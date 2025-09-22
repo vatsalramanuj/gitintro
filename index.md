@@ -13,7 +13,6 @@ title: Vatsal Ramanuj
 </div>
 
 <!-- Main content -->
-<!-- <div class="main-content"> -->
 
 ## Hi, I’m Vatsal
 
@@ -28,6 +27,7 @@ Some of my GitHub interesting projects are listed here:
 ### Digit Recognizer
 A web-based digit recognition app built with a **Flask** frontend, and an **ML backend (using NumPy)**. It includes implementation for forward propagation, gradient descent followed by backpropagation and is trained on the MNIST dataset. Hosted on Render, it is 
 *[deployed for interactive handwritten digit prediction.](https://digitrecognizer-o7lh.onrender.com/)*.
+
 ---
 
 ### Timetable Maker
@@ -42,5 +42,5 @@ Some of my favorite projects are building games for myself. My favorite game gro
 
 ---
 
-You can find more projects and my professional experience in my resume.
+You can find more projects and my professional experience in my resume. Aside from professional pursuits, you can find me looking through a telescope, playing my guitar, or solving LinkedIn puzzles. 
 

@@ -6,7 +6,7 @@
   left: 2vw;             /* spacing relative to viewport width */
   height: 96vh; /* dynamic height */
   width: clamp(220px, 20vw, 300px); /* min 220px, max 300px, scales with screen */
-  background: linear-gradient(180deg, #44e93e, #381599);
+  background: linear-gradient(180deg, #d4b6e8, #f1d2d1, #bfe4d4);
   color: white;
   padding: 2rem 1rem;
   display: flex;
