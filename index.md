@@ -10,7 +10,7 @@ title: Vatsal Ramanuj
   <h4>EE major at Indian Institute of Technology, Madras.</h4>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vatsalnr@gmail.com" target="_blank">Email</a>
   <a href="https://www.linkedin.com/in/vatsalramanuj/">LinkedIn</a>
-  <a href="/assets/resume.pdf">Resume</a>
+  <a href="/gitintro/assets/resume.pdf">Resume</a>
 </div>
 
 <!-- Main content -->
